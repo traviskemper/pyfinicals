@@ -1,4 +1,13 @@
-# Mortgage amortization
+'''
+
+ Mortgage amortization
+
+This was copied from:
+
+http://codingwithnumbers.blogspot.com/2012/03/create-mortgage-amortization-table-in.html
+
+
+'''
 
 from decimal import *
 
